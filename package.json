@@ -15,7 +15,7 @@
         "mongoose": "^6.13.5",
         "moralis": "2.0.1",
         "next": "^14.2.10",
-        "next-auth": "^4.10.3",
+        "next-auth": "^4.24.10",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "wagmi": "^0.6.1"
